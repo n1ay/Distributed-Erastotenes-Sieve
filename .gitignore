@@ -1,0 +1,5 @@
+#ignore .beam (erlang output)
+*.beam
+
+#ignore .so (C output)
+*.so
